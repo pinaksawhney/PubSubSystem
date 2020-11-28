@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugs-IDEA">
+    <excludeFilterFiles>
+      <filter file="$PROJECT_DIR$/../project/ss-backend/config/findbugs-exclude.xml" enabled="true" />
+    </excludeFilterFiles>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RMI Configuration">
+    <Server />
+    <Port>0</Port>
+    <ProjectOutput>false</ProjectOutput>
+    <CODEBASE />
+  </component>
+</project>
